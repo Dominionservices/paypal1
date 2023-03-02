@@ -2,7 +2,7 @@ simon
 legah
 obi
 kevin
-ugo
+peace
 frank
 Thomas 
 levi
