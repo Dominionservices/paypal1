@@ -1,5 +1,5 @@
-This a great!
-Things are getting better 
+we support;
+java applications
 .net applications=
 NodeJS applications
 pytonapplication
